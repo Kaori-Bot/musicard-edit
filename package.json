@@ -30,8 +30,7 @@
   "author": "FlameFace",
   "license": "GPL-3.0-only",
   "dependencies": {
-    "@napi-rs/canvas": "^0.1.45",
-    "cropify": "^1.0.8"
+    "@napi-rs/canvas": "^0.1.51"
   },
   "repository": {
     "type": "git",

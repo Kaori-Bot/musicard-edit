@@ -1,5 +1,5 @@
 const { createCanvas, loadImage } = require("@napi-rs/canvas");
-const { cropImage } = require("cropify");
+const { cropImage } = require("../utils");
 
 async function Dynamic({
     thumbnailImage,
