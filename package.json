@@ -7,7 +7,7 @@
   "files": [
     "fonts",
     "themes",
-    "utils",
+    "utils/",
     "index.js",
     "index.d.ts"
   ],
